@@ -33,7 +33,7 @@ Python: Version 3.8 or higher
 git clone https://github.com/your-username/von2-simulator.git
 cd von2-simulator
 
-(i have uploaded the whol virtual environment but just in case , if you want to setup your own environment)
+(i have uploaded the whole virtual environment but just in case , if you want to setup your own environment)
 - Install dependencies:
 
 pip install customtkinter
