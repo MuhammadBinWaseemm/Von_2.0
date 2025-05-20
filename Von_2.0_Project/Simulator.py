@@ -56,7 +56,7 @@ class Assemblysimulator:
     sim=Simulator()
     def __init__(self):
         self.window = ctk.CTk()
-        self.window.title("Neon Assembly simulator")
+        self.window.title("Von 2.0 Simulator")
         self.window.geometry("1200x800")
         self.registers: Dict[str, Register] = {
             'DR': Register('DR',16),
